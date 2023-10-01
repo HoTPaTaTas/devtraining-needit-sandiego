@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application/>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Arcel AppFile Lab Exercise</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_58872_needit_needit</name>
+        <order>2</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-22 08:34:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>cf5901b3479131107ac5acad416d438b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Arcel AppFile Lab Exercise</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_app_module_cf5901b3479131107ac5acad416d438b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-22 08:34:53</sys_updated_on>
+        <timeline_page/>
+        <title>Arcel AppFile Lab Exercise</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>f4575ec8dbf3015407072f17d4961959</instance_id>
+        <instance_name>dev128367</instance_name>
+        <name>sys_app_module_cf5901b3479131107ac5acad416d438b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application/><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Arcel AppFile Lab Exercise</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_58872_needit_needit</name><order>2</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-22 08:34:53</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>cf5901b3479131107ac5acad416d438b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Arcel AppFile Lab Exercise</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_app_module_cf5901b3479131107ac5acad416d438b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-22 08:34:53</sys_updated_on><timeline_page/><title>Arcel AppFile Lab Exercise</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1960504316</payload_hash>
+        <record_name>Arcel AppFile Lab Exercise</record_name>
+        <reverted_from/>
+        <source>99405fce475131107ac5acad416d43ae</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-22 08:34:53</sys_created_on>
+        <sys_id>56d949b3479131107ac5acad416d4330</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18abc070c0b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-22 08:34:53</sys_updated_on>
+        <type>Module</type>
+        <update_guid>9ad949b30b9131108eefc479cfa3b92f</update_guid>
+        <update_guid_history>9ad949b30b9131108eefc479cfa3b92f:1960504316</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Arcel AppFile Lab Exercise">c55a41f3479131107ac5acad416d4348</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-22 08:36:58</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>07a617a9c8214010a15c0976067b3790</sys_id>
+        <sys_metadata>cf5901b3479131107ac5acad416d438b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Arcel AppFile Lab Exercise</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_app_module_cf5901b3479131107ac5acad416d438b</sys_update_name>
+        <sys_update_version display_value="sys_app_module_cf5901b3479131107ac5acad416d438b">56d949b3479131107ac5acad416d4330</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-22 08:36:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
